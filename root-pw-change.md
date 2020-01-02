@@ -1,4 +1,4 @@
-Steps by steps instruction to change PW of root in RHEL.
+# Steps by steps instruction to change PW of root in RHEL.
 
 1) while booting  press e 
 2) UTF -0 rd.break
