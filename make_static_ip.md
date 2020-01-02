@@ -1,5 +1,5 @@
 # Making static IP :
- * vi /etc/sysconfig/network-scripts/ifcfg-ens192
+vi /etc/sysconfig/network-scripts/ifcfg-ens192
 
 TYPE="Ethernet"
 PROXY_METHOD="none"
