@@ -6,6 +6,9 @@
 4)mount -o remount,rw /sysroot
 5)chroot /sysroot
 6)passwd ... again ......
+
 7)touch /.autorelabel 
+
 8)exit
+
 9)exit
